@@ -1,4 +1,4 @@
-### Version 1.6 - 02/Aug/2018 ###
+### Version 1.6 - 30/Apr/2019 ###
 
 Type
 >> help CAPLS
