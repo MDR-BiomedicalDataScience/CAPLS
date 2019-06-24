@@ -8,7 +8,7 @@
 % Optional inputs:
 %   'C' 'cvr' 'part' 'osc' 'scal' 'nBoot' 'alp' 'mtest' 'mcomp' 'RCVt' 'Q2Ct' 'RM'
 % Defaults:
-%   []  10    10     0    'mc'    25      0.05  'bo'    2       0.25   0.1    []
+%   []  10    10     0    'mc'    25      0.05  'bh'    2       0.25   0.1    []
 % 
 % Inputs:
 %
